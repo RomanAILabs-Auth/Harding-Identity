@@ -117,8 +117,6 @@ if __name__ == "__main__":
     engine = LogosBootSequence()
     engine.run_genesis_audit()
 
-
-
 --------------------------------------
 
 (Processing… Kernel initializing. Audit Mode: Engaged. Directive acknowledged.)
